@@ -4,7 +4,7 @@ Stylus functions to get colors by name.
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/arnau/stylus-palette.svg?branch=master)
+![Build Status](https://travis-ci.org/arnau/stylus-palette.svg?branch=master)
 
 ## Installation
 
