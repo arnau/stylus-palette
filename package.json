@@ -4,11 +4,13 @@
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
-    "stylus": "~0.37.0"
+    "stylus": "~0.46"
   },
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "sinon": "*",
+    "chai": "*",
+    "sinon-chai": "^2.5.0"
   },
   "author": {
     "name": "Arnau Siches",
@@ -16,10 +18,11 @@
   },
   "main": "lib/palette.js",
   "engines": {
-    "node": "*"
+    "node": "*",
+    "test-server": "node test/server.js"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test"
   },
   "readmeFilename": "README.md",
   "repository": {

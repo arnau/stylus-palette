@@ -1,0 +1,6 @@
+--require=should
+--mocha--path=node_modules/mocha
+--chai-path=node_modules/chai
+--reporter=spec
+--ui=bdd
+--check-leaks
