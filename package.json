@@ -18,8 +18,7 @@
   },
   "main": "lib/palette.js",
   "engines": {
-    "node": "*",
-    "test-server": "node test/server.js"
+    "node": "*"
   },
   "scripts": {
     "test": "mocha test"
