@@ -1,7 +1,7 @@
 {
   "name": "stylus-palette",
   "description": "Stylus functions to get colors by name",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "MIT",
   "dependencies": {
     "stylus": "0.50.x"
