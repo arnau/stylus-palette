@@ -1,6 +1,6 @@
-var stylus = require('stylus');
-var palette = require('../');
 var fs = require('fs');
+var palette = require('../');
+var stylus = require('stylus');
 
 
 describe('Simple palette', function () {

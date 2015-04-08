@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "license": "MIT",
   "dependencies": {
-    "stylus": "~0.46"
+    "stylus": "0.50.x"
   },
   "devDependencies": {
     "mocha": "*",
