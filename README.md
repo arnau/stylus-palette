@@ -51,12 +51,10 @@ name and its value the palette composed by a {colorName, value} pairs.
       }
     }
 
-In the stylus file import palette to gain access to `palette()` and `palette-*()`
+In the stylus file you'll have access to `palette()` and `palette-*()`
 functions.
 
     # foo.styl
-
-    @import 'palette'
 
     .error {
       background-color: palette(intense, error);
